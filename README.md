@@ -2,7 +2,7 @@
 
 Hi, I'm Suyash. A person with many ideas. Interested in Artificial Intelligence, Deep Learning, Computer Vision, Natural Language Processing and Robotics. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suyash%20Agarwal-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/suagar10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suyash%20Agarwal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/suagar10)
 - Pursuing **Computer Science and Engineering** at *Vellore Institute of Technology, Vellore*
 - Currently exploring Generative Adversarial Networks. 
 - I am at present working on Digital Signal Processing and also Music Generation. 
