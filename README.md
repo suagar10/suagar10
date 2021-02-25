@@ -10,6 +10,7 @@ Hi, I'm Suyash. A person with many ideas. Interested in Artificial Intelligence,
 - Feel free to approach me if you want to collaborate on projects involving any of the above fields
 - Ask me about anything tech or music related. Available everywhere as **@suagar10**.
 
-*Latest Blog Post*
+*Latest Blog Posts*
 
 * [Is this the end for Convolutional Neural Networks?](https://medium.com/@suagar10/is-this-the-end-for-convolutional-neural-networks-6f944dccc2e9)
+* [The Power of Scale](https://suagar10.medium.com/the-power-of-scale-e70971f6264a)
