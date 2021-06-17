@@ -13,4 +13,4 @@ Hi, I'm Suyash. A person with many ideas. Interested in Artificial Intelligence,
 *Latest Blog Posts*
 
 * [Is this the end for Convolutional Neural Networks?](https://medium.com/@suagar10/is-this-the-end-for-convolutional-neural-networks-6f944dccc2e9)
-* [The Power of Scale](https://suagar10.medium.com/the-power-of-scale-e70971f6264a)
+* [The Power of Scale](https://suagar10.medium.com/the-power-of-scale-994869db33ce)
